@@ -1,0 +1,37 @@
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\appsettings.json
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\Testing Dotnet Application Development.exe
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\Testing Dotnet Application Development.deps.json
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\Testing Dotnet Application Development.runtimeconfig.json
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\Testing Dotnet Application Development.runtimeconfig.dev.json
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\Testing Dotnet Application Development.dll
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\Testing Dotnet Application Development.pdb
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\Testing Dotnet Application Development.Views.dll
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\Testing Dotnet Application Development.Views.pdb
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.csprojAssemblyReference.cache
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.csproj.CoreCompileInputs.cache
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.MvcApplicationPartsAssemblyInfo.cache
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.RazorAssemblyInfo.cache
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.RazorAssemblyInfo.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.AssemblyInfoInputs.cache
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.AssemblyInfo.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.TagHelpers.input.cache
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.TagHelpers.output.cache
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.RazorCoreGenerate.cache
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.RazorTargetAssemblyInfo.cache
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.RazorTargetAssemblyInfo.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.Views.pdb
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\staticwebassets\Testing Dotnet Application Development.StaticWebAssets.Manifest.cache
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\staticwebassets\Testing Dotnet Application Development.StaticWebAssets.xml
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.dll
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.pdb
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.genruntimeconfig.cache
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.csproj.CopyComplete
