@@ -28,6 +28,11 @@ namespace Testing_Dotnet_Application_Development.Controllers
             return View();
         }
 
+        public IActionResult UserRegistration()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
