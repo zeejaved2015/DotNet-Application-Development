@@ -9,7 +9,6 @@ E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcore
 E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\Testing Dotnet Application Development.pdb
 E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\Testing Dotnet Application Development.Views.dll
 E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\Testing Dotnet Application Development.Views.pdb
-E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.csprojAssemblyReference.cache
 E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.RazorAssemblyInfo.cache
 E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.RazorAssemblyInfo.cs
 E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.AssemblyInfoInputs.cache
@@ -109,3 +108,8 @@ E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcore
 E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.csproj.CoreCompileInputs.cache
 E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.MvcApplicationPartsAssemblyInfo.cache
 E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Razor\Views\Home\UserRegistration.cshtml.g.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\bin\Debug\netcoreapp3.1\libman.json
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Razor\Views\Home\Responsive.cshtml.g.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Testing Dotnet Application Development.csprojAssemblyReference.cache
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewTab.cshtml.g.cs
+E:\EVS Course\.Net Self\Testing Dotnet Application Development\obj\Debug\netcoreapp3.1\Razor\Views\test\Test1.cshtml.g.cs
